@@ -1,0 +1,8 @@
+Arduino Nano
+Esp32-Wroom (8mb flash - 38 pins)
+OLED 128x64
+Ultrasonic sensor
+RFID RC522
+IR Sensor
+Bread Board
+Jumper Wires
